@@ -1,0 +1,8 @@
+.moquepons-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+img {
+    width: 150px;
+}
